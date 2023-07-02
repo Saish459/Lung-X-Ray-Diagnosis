@@ -1,4 +1,4 @@
-# Lung X-ray Classification with Deep Learning
+# Diagnosing Lung X-rays using Deep Learning
 
 🔬 A deep learning model to classify lung X-ray images into different categories: Normal, Viral Infection, and COVID-19.
 
