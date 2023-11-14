@@ -49,3 +49,6 @@
 📊 The prediction report includes the predicted label (Normal, COVID-19, or Pneumonia) and the corresponding probabilities for each class.
 
 📷 The app supports various image formats, including JPEG and PNG.
+
+
+##### This project is for educational and research purposes and is not intended for medical diagnosis. Consult with healthcare professionals for accurate medical assessments.
